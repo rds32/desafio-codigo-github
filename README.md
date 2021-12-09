@@ -2,4 +2,4 @@
 primeiro-codigo
 
 ##  principios basicos do markdown   
- ### Link : (https://www.markdownguide.org/extended-synt)
+ ### Link : (https://www.markdownguide.org/extended-syntax)
